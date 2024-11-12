@@ -1,3 +1,2 @@
-hello
+# Обучение Git
 
-hello again
